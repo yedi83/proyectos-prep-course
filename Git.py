@@ -29,7 +29,8 @@
     - Git clone: clona un repositorio en mi pc de forma local 
     - Git push: crea un repositorio en git y lo guarda en mi pc
     - Git push:  git push -u origin main , lleva los cambios a git hub, los empuja los commit o versiones
-    - Git config --global -l: pra ver credenciale en git email y otros"""
+    - Git config --global -l: pra ver credenciale en git email y otros
+    - Git remote add origin https://github.com/yedi83/proyectos-prep-course, sincroniza este repositorio especifico con mi rep local"""
 
 
 #Author identity unknown- Definir quien esta haciendo los cambios en GIT

@@ -15,9 +15,9 @@
 
 """ Las etiquetas tienen un formato: en apertura de parentesis
 
- <etiqueta>
+<etiqueta atributos="Valor" atributos="Valor" atributos="Valor">
  
-
+    Algún texto
 
  </etiqueta>                                """
 

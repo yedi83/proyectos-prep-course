@@ -4,7 +4,7 @@
 """Es un lenguaje de marcado para crear paginas web, no es un lenguaje de programación""" 
 
 # Hypertext Markup Language: conexion de ideas a traves de palabras,
-#  markup, atraves de etiquetas/elementos html define una parte de la estructura de la página,
+#  markup, a traves de etiquetas/elementos html define una parte de la estructura de la página,
 # leguaje palabras reservadas con sintaxis y semantica
 
 
